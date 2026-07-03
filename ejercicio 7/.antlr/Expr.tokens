@@ -1,0 +1,7 @@
+INT=1
+IGUAL=2
+NUM=3
+ID=4
+WS=5
+'int'=1
+'='=2
