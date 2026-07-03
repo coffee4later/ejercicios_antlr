@@ -1,0 +1,11 @@
+IF=1
+MAYOR_QUE=2
+PAR_A=3
+PAR_C=4
+NUM=5
+ID=6
+WS=7
+'if'=1
+'>'=2
+'('=3
+')'=4
